@@ -1,0 +1,20 @@
+# 忽略 VS / 系统产生的临时文件
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+.git/
+
+# 截图与打包产物（作业交付物不进仓库）
+*.png
+*.jpg
+*.jpeg
+*.zip
+
+# VS Code
+.vscode/
